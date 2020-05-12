@@ -1,0 +1,5 @@
+Covid19_2.java  [22:18:29 - 22:18:35]  ~6 sec
+Covid19_3.java  [22:21:37 - 22:21:42] ~5 sec
+
+SparkCovid19_1.java [22:24:17 - 22:24:20] ~3 sec
+SparkCovid19_2.java [22:26:48 - 22:26:52] ~4 sec

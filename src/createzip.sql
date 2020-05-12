@@ -1,0 +1,6 @@
+CREATE TABLE cse532.zippop(
+    ZIP INT,
+    COUNTY INT,
+    GEOID INT,
+    ZPOP INT
+    )COMPRESS YES;

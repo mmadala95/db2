@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="TESTDB" uuid="a0d066fe-3892-48c2-ab03-8a61e23dfc60">
+      <database-info product="DB2/LINUXX8664" version="SQL110500" jdbc-version="4.1" driver-name="IBM Data Server Driver for JDBC and SQLJ" driver-version="4.23.42" dbms="DB2_LUW" exact-version="11.5.0" exact-driver-version="4.23">
+        <extra-name-characters>@#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>DB2INST1</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="DB2INST1" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="cse532" uuid="81df2eae-f8d4-44f3-98a2-29e19e4e64a5">
+      <database-info product="DB2/LINUXX8664" version="SQL110500" jdbc-version="4.1" driver-name="IBM Data Server Driver for JDBC and SQLJ" driver-version="4.23.42" dbms="DB2_LUW" exact-version="11.5.0" exact-driver-version="4.23">
+        <extra-name-characters>@#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>DB2INST1</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="DB2INST1" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+    <data-source name="sample" uuid="842601d4-c17b-4b6f-89af-298f8f976123">
+      <database-info product="DB2/LINUXX8664" version="SQL110500" jdbc-version="4.1" driver-name="IBM Data Server Driver for JDBC and SQLJ" driver-version="4.23.42" dbms="DB2_LUW" exact-version="11.5.0" exact-driver-version="4.23">
+        <extra-name-characters>@#</extra-name-characters>
+        <identifier-quote-string>&quot;</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>DB2INST1</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema">
+            <name qname="@" />
+            <name qname="DB2INST1" />
+            <name qname="CSE532" />
+          </node>
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>

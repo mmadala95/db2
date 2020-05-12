@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/src/Assignment3/createfacilititycertificationtable.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/createfacilititytable.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/createindexes.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/facilityinsert.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/import_zip.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/mergezip.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/nearester.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/noerzips.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/Assignment3/test.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/assn2.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/createdeaindexes.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/createdeatable.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/createzip.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/load.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/q3a.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/q3b.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/stddev.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/src/zipload.sql" dialect="GenericSQL" />
+  </component>
+</project>

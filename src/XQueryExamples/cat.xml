@@ -1,0 +1,21 @@
+<catalog>
+    <product dept="WMN">
+        <number>557</number>
+        <name language="en">Linen Shirt</name>
+        <colorChoices>beige sage</colorChoices>
+    </product>
+    <product dept="ACC">
+        <number>563</number>
+        <name language="en">Ten-Gallon Hat</name>
+    </product>
+    <product dept="ACC">
+        <number>443</number>
+        <name language="en">Golf Umbrella</name>
+    </product>
+    <product dept="MEN">
+        <number>784</number>
+        <name language="en">Rugby Shirt</name>
+        <colorChoices>blue/white blue/red</colorChoices>
+        <desc>Our <i>best-selling</i> shirt!</desc>
+    </product>
+</catalog>
